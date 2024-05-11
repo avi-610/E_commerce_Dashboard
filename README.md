@@ -1,6 +1,4 @@
-
-Created interactive dashboard to gtrack and analyze online sales data.
-Used complex parameters to drill down in worksheet and customization using filters and slicers.
-Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
-Used different types of customized visulaization( bar chart,pie chart, donut chart, clustered bar chart, line chart, area chart,
-map,slicers,etc)
+Developed an interactive dashboard for tracking and analyzing online sales data.
+Utilized advanced parameters to drill down within worksheets and customized views using filters and slicers.
+Established connections, performed table joins, and implemented calculations to manipulate data and facilitate user-driven parameterization for visualizations.
+Employed various customized visualization types including bar charts, pie charts, donut charts, clustered bar charts, line charts, area charts, maps, slicers, etc.
